@@ -34,8 +34,3 @@ Download the datasets and pretrained checkpoints separately. Update `configs/pat
 
 Run preprocessing, feature extraction, model fitting, and evaluation in that order. See `docs/` and the corresponding scripts for details.
 
-## Notes
-
-Raw datasets, pretrained checkpoints, extracted features, fitted models, and experimental results are not included.
-
-ACDC was used during development. RADIATE external validation did not meet the preregistered specificity criterion.
