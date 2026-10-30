@@ -1,0 +1,23 @@
+{
+ "protocol": "RADIATE_PREREGISTRATION.md sec. 4: three frames per condition sequence (positions n/6, n/2, 5n/6 of the 5 Hz sequence; sheets results/v6/label_audit/sheet_*.jpg), rated before any RADIATE feature or detector score existed.",
+ "scale": "V = condition visibly present; A = ambiguous; N = not visibly adverse",
+ "ratings": [
+  {"seq": "fog_6_0", "tag": "fog", "rating": "V", "note": "low visibility, heavy water droplets on the lens dominate; driving on a wet rural road"},
+  {"seq": "fog_8_0", "tag": "fog", "rating": "V", "note": "dense fog; vehicle appears STATIONARY (identical view in all three frames)"},
+  {"seq": "fog_8_1", "tag": "fog", "rating": "V", "note": "dense fog; stationary, same view as fog_8_0"},
+  {"seq": "fog_8_2", "tag": "fog", "rating": "V", "note": "dense fog; stationary, same view as fog_8_0"},
+  {"seq": "rain_4_0", "tag": "rain", "rating": "V", "note": "wet road, droplets on lens, overcast"},
+  {"seq": "rain_4_1", "tag": "rain", "rating": "V", "note": "wet road, droplets/smear on lens edges, dark overcast"},
+  {"seq": "snow_1_0", "tag": "snow", "rating": "V", "note": "snow/slush on lens, severe whitening and obscuration"},
+  {"seq": "night_1_0", "tag": "night", "rating": "V", "note": "dark, street lights"},
+  {"seq": "night_1_2", "tag": "night", "rating": "V", "note": "dark, street lights; urban motorway"},
+  {"seq": "night_1_4", "tag": "night", "rating": "V", "note": "dark/late twilight, street and head lights"}
+ ],
+ "clean_role_observations": {
+  "sheet": "results/v6/label_audit/clean_roles_sheet.jpg (descriptive; roles are NOT changed)",
+  "rural_1_1 (T0)": "strong low-sun glare and lens flare in parts of the sequence",
+  "junction_* (R, C)": "RADIATE scenario type 'static': the vehicle is stationary at a junction",
+  "city_2_0 (R)": "zip contains only 1385 of 2634 zed_left images listed in zed_left.txt (zip CRC test OK); 462 frames at 5 Hz used",
+  "city_6_0 (C)": "RADIATE set 'train_good_and_bad_weather', visually overcast/clear"
+ }
+}

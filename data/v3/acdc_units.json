@@ -1,0 +1,371 @@
+[
+ {
+  "unit": "acdc/fog_0479",
+  "condition": "fog",
+  "n_frames": 29,
+  "role": "dev",
+  "acdc_splits": {
+   "train": 29
+  }
+ },
+ {
+  "unit": "acdc/fog_0480",
+  "condition": "fog",
+  "n_frames": 7,
+  "role": "dev",
+  "acdc_splits": {
+   "train": 7
+  }
+ },
+ {
+  "unit": "acdc/fog_0478",
+  "condition": "fog",
+  "n_frames": 335,
+  "role": "dev",
+  "acdc_splits": {
+   "train": 91,
+   "test": 244
+  }
+ },
+ {
+  "unit": "acdc/fog_0475_calib",
+  "condition": "fog",
+  "n_frames": 146,
+  "role": "calib",
+  "acdc_splits": {
+   "test": 99,
+   "train": 25,
+   "val": 22
+  }
+ },
+ {
+  "unit": "acdc/fog_0475_ref",
+  "condition": "fog",
+  "n_frames": 97,
+  "role": "ref",
+  "acdc_splits": {
+   "train": 20,
+   "test": 77
+  }
+ },
+ {
+  "unit": "acdc/fog_0476_calib",
+  "condition": "fog",
+  "n_frames": 41,
+  "role": "calib",
+  "acdc_splits": {
+   "val": 32,
+   "train": 9
+  }
+ },
+ {
+  "unit": "acdc/fog_0476_norm",
+  "condition": "fog",
+  "n_frames": 101,
+  "role": "norm",
+  "acdc_splits": {
+   "train": 55,
+   "val": 46
+  }
+ },
+ {
+  "unit": "acdc/fog_0477_calib",
+  "condition": "fog",
+  "n_frames": 99,
+  "role": "calib",
+  "acdc_splits": {
+   "test": 38,
+   "train": 61
+  }
+ },
+ {
+  "unit": "acdc/fog_0477_ref",
+  "condition": "fog",
+  "n_frames": 145,
+  "role": "ref",
+  "acdc_splits": {
+   "train": 103,
+   "test": 42
+  }
+ },
+ {
+  "unit": "acdc/night_0351",
+  "condition": "night",
+  "n_frames": 149,
+  "role": "dev",
+  "acdc_splits": {
+   "val": 56,
+   "train": 93
+  }
+ },
+ {
+  "unit": "acdc/night_0397",
+  "condition": "night",
+  "n_frames": 104,
+  "role": "dev",
+  "acdc_splits": {
+   "train": 104
+  }
+ },
+ {
+  "unit": "acdc/night_0594",
+  "condition": "night",
+  "n_frames": 160,
+  "role": "dev",
+  "acdc_splits": {
+   "test": 160
+  }
+ },
+ {
+  "unit": "acdc/night_0355_calib",
+  "condition": "night",
+  "n_frames": 10,
+  "role": "calib",
+  "acdc_splits": {
+   "test": 10
+  }
+ },
+ {
+  "unit": "acdc/night_0356_ref",
+  "condition": "night",
+  "n_frames": 229,
+  "role": "ref",
+  "acdc_splits": {
+   "test": 179,
+   "val": 50
+  }
+ },
+ {
+  "unit": "acdc/night_0364_calib",
+  "condition": "night",
+  "n_frames": 105,
+  "role": "calib",
+  "acdc_splits": {
+   "test": 105
+  }
+ },
+ {
+  "unit": "acdc/night_0364_norm",
+  "condition": "night",
+  "n_frames": 46,
+  "role": "norm",
+  "acdc_splits": {
+   "test": 46
+  }
+ },
+ {
+  "unit": "acdc/night_0376_calib",
+  "condition": "night",
+  "n_frames": 147,
+  "role": "calib",
+  "acdc_splits": {
+   "train": 147
+  }
+ },
+ {
+  "unit": "acdc/night_0376_norm",
+  "condition": "night",
+  "n_frames": 56,
+  "role": "norm",
+  "acdc_splits": {
+   "train": 56
+  }
+ },
+ {
+  "unit": "acdc/rain_0400",
+  "condition": "rain",
+  "n_frames": 299,
+  "role": "dev",
+  "acdc_splits": {
+   "val": 18,
+   "train": 240,
+   "test": 41
+  }
+ },
+ {
+  "unit": "acdc/rain_0571",
+  "condition": "rain",
+  "n_frames": 75,
+  "role": "dev",
+  "acdc_splits": {
+   "val": 2,
+   "test": 67,
+   "train": 6
+  }
+ },
+ {
+  "unit": "acdc/rain_0402_calib",
+  "condition": "rain",
+  "n_frames": 185,
+  "role": "calib",
+  "acdc_splits": {
+   "val": 62,
+   "train": 123
+  }
+ },
+ {
+  "unit": "acdc/rain_0402_ref",
+  "condition": "rain",
+  "n_frames": 84,
+  "role": "ref",
+  "acdc_splits": {
+   "train": 31,
+   "test": 48,
+   "val": 5
+  }
+ },
+ {
+  "unit": "acdc/rain_0572_ref",
+  "condition": "rain",
+  "n_frames": 119,
+  "role": "ref",
+  "acdc_splits": {
+   "test": 106,
+   "val": 13
+  }
+ },
+ {
+  "unit": "acdc/rain_0573_calib",
+  "condition": "rain",
+  "n_frames": 115,
+  "role": "calib",
+  "acdc_splits": {
+   "test": 115
+  }
+ },
+ {
+  "unit": "acdc/rain_0573_norm",
+  "condition": "rain",
+  "n_frames": 69,
+  "role": "norm",
+  "acdc_splits": {
+   "test": 69
+  }
+ },
+ {
+  "unit": "acdc/rain_0573_ref",
+  "condition": "rain",
+  "n_frames": 54,
+  "role": "ref",
+  "acdc_splits": {
+   "test": 54
+  }
+ },
+ {
+  "unit": "acdc/snow_0604",
+  "condition": "snow",
+  "n_frames": 54,
+  "role": "dev",
+  "acdc_splits": {
+   "val": 23,
+   "train": 31
+  }
+ },
+ {
+  "unit": "acdc/snow_0605",
+  "condition": "snow",
+  "n_frames": 3,
+  "role": "dev",
+  "acdc_splits": {
+   "val": 3
+  }
+ },
+ {
+  "unit": "acdc/snow_0122",
+  "condition": "snow",
+  "n_frames": 152,
+  "role": "dev",
+  "acdc_splits": {
+   "val": 33,
+   "train": 43,
+   "test": 76
+  }
+ },
+ {
+  "unit": "acdc/snow_0607",
+  "condition": "snow",
+  "n_frames": 140,
+  "role": "dev",
+  "acdc_splits": {
+   "train": 123,
+   "val": 17
+  }
+ },
+ {
+  "unit": "acdc/snow_0176_calib",
+  "condition": "snow",
+  "n_frames": 169,
+  "role": "calib",
+  "acdc_splits": {
+   "test": 83,
+   "train": 86
+  }
+ },
+ {
+  "unit": "acdc/snow_0176_ref",
+  "condition": "snow",
+  "n_frames": 185,
+  "role": "ref",
+  "acdc_splits": {
+   "test": 114,
+   "val": 10,
+   "train": 61
+  }
+ },
+ {
+  "unit": "acdc/snow_0494_calib",
+  "condition": "snow",
+  "n_frames": 16,
+  "role": "calib",
+  "acdc_splits": {
+   "test": 16
+  }
+ },
+ {
+  "unit": "acdc/snow_0494_ref",
+  "condition": "snow",
+  "n_frames": 57,
+  "role": "ref",
+  "acdc_splits": {
+   "test": 57
+  }
+ },
+ {
+  "unit": "acdc/snow_0496_calib",
+  "condition": "snow",
+  "n_frames": 42,
+  "role": "calib",
+  "acdc_splits": {
+   "test": 42
+  }
+ },
+ {
+  "unit": "acdc/snow_0496_norm",
+  "condition": "snow",
+  "n_frames": 17,
+  "role": "norm",
+  "acdc_splits": {
+   "test": 17
+  }
+ },
+ {
+  "unit": "acdc/snow_0606_calib",
+  "condition": "snow",
+  "n_frames": 65,
+  "role": "calib",
+  "acdc_splits": {
+   "val": 14,
+   "train": 51
+  }
+ },
+ {
+  "unit": "acdc/snow_0606_norm",
+  "condition": "snow",
+  "n_frames": 100,
+  "role": "norm",
+  "acdc_splits": {
+   "test": 95,
+   "train": 5
+  }
+ }
+]

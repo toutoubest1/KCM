@@ -1,0 +1,9 @@
+name: kcm
+channels: [conda-forge]
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - -r requirements.txt
+# LaTeX (for paper/): TeX Live with lmodern, natbib, tikz, booktabs, xr-hyper
+# (Debian/Ubuntu: texlive-latex-extra texlive-fonts-recommended texlive-pictures lmodern)

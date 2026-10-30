@@ -1,0 +1,168 @@
+[
+ {
+  "name": "mewma_multilayer",
+  "kind": "baseline",
+  "baseline": "mewma_multilayer"
+ },
+ {
+  "name": "knn_ewma",
+  "kind": "baseline",
+  "baseline": "knn_ewma"
+ },
+ {
+  "name": "single_g2",
+  "kind": "single",
+  "cond": [
+   "g2"
+  ]
+ },
+ {
+  "name": "single_g4",
+  "kind": "single",
+  "cond": [
+   "g4"
+  ]
+ },
+ {
+  "name": "equal_global",
+  "kind": "equal",
+  "cond": [
+   "g2",
+   "g4",
+   "g6",
+   "g8",
+   "g10",
+   "g12"
+  ]
+ },
+ {
+  "name": "max_global",
+  "kind": "max",
+  "cond": [
+   "g2",
+   "g4",
+   "g6",
+   "g8",
+   "g10",
+   "g12"
+  ]
+ },
+ {
+  "name": "cond_max",
+  "kind": "max",
+  "cond": [
+   "g2",
+   "g4",
+   "g6",
+   "g8"
+  ]
+ },
+ {
+  "name": "ccd_resid",
+  "kind": "ccd_resid",
+  "cond": [
+   "g2",
+   "g4",
+   "g6",
+   "g8"
+  ],
+  "cont": [
+   "g10",
+   "g12"
+  ]
+ },
+ {
+  "name": "ccd_resid_max",
+  "kind": "ccd_resid_max",
+  "cond": [
+   "g2",
+   "g4",
+   "g6",
+   "g8"
+  ],
+  "cont": [
+   "g10",
+   "g12"
+  ]
+ },
+ {
+  "name": "ccd_gate",
+  "kind": "ccd_gate",
+  "cond": [
+   "g2",
+   "g4",
+   "g6",
+   "g8"
+  ],
+  "cont": [
+   "g10",
+   "g12"
+  ],
+  "extra": {
+   "gate": 2.0
+  }
+ },
+ {
+  "name": "ccd_lr_all",
+  "kind": "ccd_lr",
+  "cond": [
+   "g2",
+   "g4",
+   "g6",
+   "g8",
+   "g10",
+   "g12",
+   "p6top",
+   "p6mean",
+   "p8top",
+   "p8mean"
+  ]
+ },
+ {
+  "name": "ccd_lr_global",
+  "kind": "ccd_lr",
+  "cond": [
+   "g2",
+   "g4",
+   "g6",
+   "g8",
+   "g10",
+   "g12"
+  ]
+ },
+ {
+  "name": "still_scan_6_8",
+  "kind": "still_scan",
+  "extra": {
+   "blocks": [
+    6,
+    8
+   ]
+  }
+ },
+ {
+  "name": "still_scan_8",
+  "kind": "still_scan",
+  "extra": {
+   "blocks": [
+    8
+   ]
+  }
+ },
+ {
+  "name": "ccdmm_residmax_still",
+  "kind": "union",
+  "components": [
+   "ccd_resid_max",
+   "still_scan_6_8"
+  ]
+ },
+ {
+  "name": "ccdmm_lr_still",
+  "kind": "union",
+  "components": [
+   "ccd_lr_all",
+   "still_scan_6_8"
+  ]
+ }
+]

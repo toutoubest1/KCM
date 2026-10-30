@@ -1,0 +1,125 @@
+[
+ {
+  "name": "mewma_multilayer",
+  "kind": "baseline",
+  "baseline": "mewma_multilayer"
+ },
+ {
+  "name": "knn_ewma",
+  "kind": "baseline",
+  "baseline": "knn_ewma"
+ },
+ {
+  "name": "single_g2",
+  "kind": "single",
+  "cond": [
+   "g2"
+  ]
+ },
+ {
+  "name": "equal_global",
+  "kind": "equal",
+  "cond": [
+   "g2",
+   "g4",
+   "g6",
+   "g8",
+   "g10",
+   "g12"
+  ]
+ },
+ {
+  "name": "max_global",
+  "kind": "max",
+  "cond": [
+   "g2",
+   "g4",
+   "g6",
+   "g8",
+   "g10",
+   "g12"
+  ]
+ },
+ {
+  "name": "ccd_lr_all",
+  "kind": "ccd_lr",
+  "cond": [
+   "g2",
+   "g4",
+   "g6",
+   "g8",
+   "g10",
+   "g12",
+   "p6top",
+   "p6mean",
+   "p8top",
+   "p8mean"
+  ]
+ },
+ {
+  "name": "ccd_lr_resid",
+  "kind": "ccd_lr_resid",
+  "cond": [
+   "g2",
+   "g4",
+   "g6",
+   "g8",
+   "p6top",
+   "p6mean",
+   "p8top",
+   "p8mean"
+  ],
+  "cont": [
+   "g10",
+   "g12"
+  ]
+ },
+ {
+  "name": "ccd_resid_max",
+  "kind": "ccd_resid_max",
+  "cond": [
+   "g2",
+   "g4",
+   "g6",
+   "g8"
+  ],
+  "cont": [
+   "g10",
+   "g12"
+  ]
+ },
+ {
+  "name": "still_scan_6_8",
+  "kind": "still_scan",
+  "extra": {
+   "blocks": [
+    6,
+    8
+   ]
+  }
+ },
+ {
+  "name": "ccdmm_lr_still",
+  "kind": "joint",
+  "components": [
+   "ccd_lr_all",
+   "still_scan_6_8"
+  ]
+ },
+ {
+  "name": "ccdmm_lrresid_still",
+  "kind": "joint",
+  "components": [
+   "ccd_lr_resid",
+   "still_scan_6_8"
+  ]
+ },
+ {
+  "name": "ccdmm_residmax_still",
+  "kind": "joint",
+  "components": [
+   "ccd_resid_max",
+   "still_scan_6_8"
+  ]
+ }
+]

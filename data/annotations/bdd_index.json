@@ -1,0 +1,647 @@
+[
+{
+"idx": 0,
+"drive": "bdd/0000f77c-62c2a288",
+"tag": "dawn_dusk"
+},
+{
+"idx": 1,
+"drive": "bdd/00067cfb-e535423e",
+"tag": "dawn_dusk"
+},
+{
+"idx": 2,
+"drive": "bdd/0008a165-c48f4b3e",
+"tag": "dawn_dusk"
+},
+{
+"idx": 3,
+"drive": "bdd/00091078-f32de4d2",
+"tag": "dawn_dusk"
+},
+{
+"idx": 4,
+"drive": "bdd/00391a82-8be5b76d",
+"tag": "dawn_dusk"
+},
+{
+"idx": 5,
+"drive": "bdd/00391a82-d1428e56",
+"tag": "dawn_dusk"
+},
+{
+"idx": 6,
+"drive": "bdd/00417c23-220bbc98",
+"tag": "dawn_dusk"
+},
+{
+"idx": 7,
+"drive": "bdd/005c4fd3-cb4d6287",
+"tag": "dawn_dusk"
+},
+{
+"idx": 8,
+"drive": "bdd/0062ab5a-54bb129b",
+"tag": "dawn_dusk"
+},
+{
+"idx": 9,
+"drive": "bdd/006676e5-624162a7",
+"tag": "dawn_dusk"
+},
+{
+"idx": 10,
+"drive": "bdd/009e7a6a-3d755b8b",
+"tag": "dawn_dusk"
+},
+{
+"idx": 11,
+"drive": "bdd/00f89335-2ef7949d",
+"tag": "dawn_dusk"
+},
+{
+"idx": 12,
+"drive": "bdd/0100a197-bdbf50ca",
+"tag": "dawn_dusk"
+},
+{
+"idx": 13,
+"drive": "bdd/0104eb19-162abfea",
+"tag": "dawn_dusk"
+},
+{
+"idx": 14,
+"drive": "bdd/012a9c41-69222e1b",
+"tag": "dawn_dusk"
+},
+{
+"idx": 15,
+"drive": "bdd/0141ab5f-fc9afdd2",
+"tag": "dawn_dusk"
+},
+{
+"idx": 16,
+"drive": "bdd/01621265-578a97d7",
+"tag": "dawn_dusk"
+},
+{
+"idx": 17,
+"drive": "bdd/0168e22b-175c805f",
+"tag": "dawn_dusk"
+},
+{
+"idx": 18,
+"drive": "bdd/0168e22b-81d10cb6",
+"tag": "dawn_dusk"
+},
+{
+"idx": 19,
+"drive": "bdd/01a4deab-9d5e5a17",
+"tag": "dawn_dusk"
+},
+{
+"idx": 20,
+"drive": "bdd/01b633a2-5c2fee2e",
+"tag": "dawn_dusk"
+},
+{
+"idx": 21,
+"drive": "bdd/01d3a4d7-92c0537c",
+"tag": "dawn_dusk"
+},
+{
+"idx": 22,
+"drive": "bdd/01ff4acd-abd98a91",
+"tag": "dawn_dusk"
+},
+{
+"idx": 23,
+"drive": "bdd/021df36f-cddde256",
+"tag": "dawn_dusk"
+},
+{
+"idx": 24,
+"drive": "bdd/000d35d3-41990aa4",
+"tag": "night"
+},
+{
+"idx": 25,
+"drive": "bdd/000f157f-30b30f5e",
+"tag": "night"
+},
+{
+"idx": 26,
+"drive": "bdd/00134776-9123d227",
+"tag": "night"
+},
+{
+"idx": 27,
+"drive": "bdd/001c5339-13a07470",
+"tag": "night"
+},
+{
+"idx": 28,
+"drive": "bdd/001c5339-9a6cdd3e",
+"tag": "night"
+},
+{
+"idx": 29,
+"drive": "bdd/00202076-7a95b4e3",
+"tag": "night"
+},
+{
+"idx": 30,
+"drive": "bdd/00211b17-ad3e206b",
+"tag": "night"
+},
+{
+"idx": 31,
+"drive": "bdd/00232de3-19eca24a",
+"tag": "night"
+},
+{
+"idx": 32,
+"drive": "bdd/00268999-0b20ef00",
+"tag": "night"
+},
+{
+"idx": 33,
+"drive": "bdd/00268999-a4b8e39d",
+"tag": "night"
+},
+{
+"idx": 34,
+"drive": "bdd/002b485a-3f6603f2",
+"tag": "night"
+},
+{
+"idx": 35,
+"drive": "bdd/002b485a-d1301c7c",
+"tag": "night"
+},
+{
+"idx": 36,
+"drive": "bdd/00313a01-b53a2998",
+"tag": "night"
+},
+{
+"idx": 37,
+"drive": "bdd/00322f82-286ab9b3",
+"tag": "night"
+},
+{
+"idx": 38,
+"drive": "bdd/0032419c-7d20b300",
+"tag": "night"
+},
+{
+"idx": 39,
+"drive": "bdd/0034a363-24f318c4",
+"tag": "night"
+},
+{
+"idx": 40,
+"drive": "bdd/0035afff-3295dbd6",
+"tag": "night"
+},
+{
+"idx": 41,
+"drive": "bdd/0035afff-47378fa3",
+"tag": "night"
+},
+{
+"idx": 42,
+"drive": "bdd/0035afff-572b2d4e",
+"tag": "night"
+},
+{
+"idx": 43,
+"drive": "bdd/00423717-0ef3c8dc",
+"tag": "night"
+},
+{
+"idx": 44,
+"drive": "bdd/0045e757-02530231",
+"tag": "night"
+},
+{
+"idx": 45,
+"drive": "bdd/0081e3ea-3f7b0282",
+"tag": "night"
+},
+{
+"idx": 46,
+"drive": "bdd/0081e3ea-4551210e",
+"tag": "night"
+},
+{
+"idx": 47,
+"drive": "bdd/0081e3ea-9f5dda4a",
+"tag": "night"
+},
+{
+"idx": 48,
+"drive": "bdd/0081e3ea-b9448b6b",
+"tag": "night"
+},
+{
+"idx": 49,
+"drive": "bdd/008d2a0a-ac995caf",
+"tag": "night"
+},
+{
+"idx": 50,
+"drive": "bdd/008db5fb-223715d5",
+"tag": "night"
+},
+{
+"idx": 51,
+"drive": "bdd/008edf63-51af8ab6",
+"tag": "night"
+},
+{
+"idx": 52,
+"drive": "bdd/009215e2-d6d2d61b",
+"tag": "night"
+},
+{
+"idx": 53,
+"drive": "bdd/009215e2-e67ccfb7",
+"tag": "night"
+},
+{
+"idx": 54,
+"drive": "bdd/009215e2-ea063b28",
+"tag": "night"
+},
+{
+"idx": 55,
+"drive": "bdd/0096bcca-369281bd",
+"tag": "night"
+},
+{
+"idx": 56,
+"drive": "bdd/0096bcca-81ffedfc",
+"tag": "night"
+},
+{
+"idx": 57,
+"drive": "bdd/0096bcca-bfb5ea6c",
+"tag": "night"
+},
+{
+"idx": 58,
+"drive": "bdd/0096bcca-c2027ec4",
+"tag": "night"
+},
+{
+"idx": 59,
+"drive": "bdd/0096bcca-fc7d6d3c",
+"tag": "night"
+},
+{
+"idx": 60,
+"drive": "bdd/009bd04d-42445981",
+"tag": "night"
+},
+{
+"idx": 61,
+"drive": "bdd/00b4c5fc-8fcf3628",
+"tag": "night"
+},
+{
+"idx": 62,
+"drive": "bdd/00c497ae-595d361b",
+"tag": "night"
+},
+{
+"idx": 63,
+"drive": "bdd/00c4c672-26d36ad8",
+"tag": "night"
+},
+{
+"idx": 64,
+"drive": "bdd/00ccf2e8-59a6bfc9",
+"tag": "night"
+},
+{
+"idx": 65,
+"drive": "bdd/00ce95b0-84be34a3",
+"tag": "night"
+},
+{
+"idx": 66,
+"drive": "bdd/00cea101-06f21d5e",
+"tag": "night"
+},
+{
+"idx": 67,
+"drive": "bdd/00cee0e0-5e25daa7",
+"tag": "night"
+},
+{
+"idx": 68,
+"drive": "bdd/00cf8e3d-3d27efb0",
+"tag": "night"
+},
+{
+"idx": 69,
+"drive": "bdd/0124dfa6-30a430dc",
+"tag": "night"
+},
+{
+"idx": 70,
+"drive": "bdd/0127cb3a-6be24a50",
+"tag": "night"
+},
+{
+"idx": 71,
+"drive": "bdd/0128cdde-289cd9e9",
+"tag": "night"
+},
+{
+"idx": 72,
+"drive": "bdd/0128cdde-ba330f54",
+"tag": "night"
+},
+{
+"idx": 73,
+"drive": "bdd/0129ed1d-41528bb8",
+"tag": "night"
+},
+{
+"idx": 74,
+"drive": "bdd/0129ed1d-d8572c11",
+"tag": "night"
+},
+{
+"idx": 75,
+"drive": "bdd/012b2d03-bef11aa2",
+"tag": "night"
+},
+{
+"idx": 76,
+"drive": "bdd/012c118a-93e8b511",
+"tag": "night"
+},
+{
+"idx": 77,
+"drive": "bdd/012c118a-b3092f3b",
+"tag": "night"
+},
+{
+"idx": 78,
+"drive": "bdd/01306b58-a09ba743",
+"tag": "night"
+},
+{
+"idx": 79,
+"drive": "bdd/01317a31-6ea7d85d",
+"tag": "night"
+},
+{
+"idx": 80,
+"drive": "bdd/0134102e-d43de666",
+"tag": "night"
+},
+{
+"idx": 81,
+"drive": "bdd/0135988f-61d44844",
+"tag": "night"
+},
+{
+"idx": 82,
+"drive": "bdd/0135c724-b8bd0434",
+"tag": "night"
+},
+{
+"idx": 83,
+"drive": "bdd/014070bf-4de0af14",
+"tag": "night"
+},
+{
+"idx": 84,
+"drive": "bdd/0145b233-ee9c5b63",
+"tag": "night"
+},
+{
+"idx": 85,
+"drive": "bdd/01460ec4-522da2d6",
+"tag": "night"
+},
+{
+"idx": 86,
+"drive": "bdd/01460ec4-a1d65b66",
+"tag": "night"
+},
+{
+"idx": 87,
+"drive": "bdd/01460ec4-ae03e419",
+"tag": "night"
+},
+{
+"idx": 88,
+"drive": "bdd/01a8723d-6477ce11",
+"tag": "night"
+},
+{
+"idx": 89,
+"drive": "bdd/01a8723d-b7f960ce",
+"tag": "night"
+},
+{
+"idx": 90,
+"drive": "bdd/01aa2961-e390a466",
+"tag": "night"
+},
+{
+"idx": 91,
+"drive": "bdd/01bfe142-2d54e71b",
+"tag": "night"
+},
+{
+"idx": 92,
+"drive": "bdd/01c3e19a-fbacb266",
+"tag": "night"
+},
+{
+"idx": 93,
+"drive": "bdd/01c3e892-551000a2",
+"tag": "night"
+},
+{
+"idx": 94,
+"drive": "bdd/01ce75e2-df9688eb",
+"tag": "night"
+},
+{
+"idx": 95,
+"drive": "bdd/01ce75e2-fc93bd7e",
+"tag": "night"
+},
+{
+"idx": 96,
+"drive": "bdd/01d07f62-d1b665f0",
+"tag": "night"
+},
+{
+"idx": 97,
+"drive": "bdd/01d0c813-93e6e4f8",
+"tag": "night"
+},
+{
+"idx": 98,
+"drive": "bdd/01d0c813-e334c048",
+"tag": "night"
+},
+{
+"idx": 99,
+"drive": "bdd/01d0c813-f2819e84",
+"tag": "night"
+},
+{
+"idx": 100,
+"drive": "bdd/01d87368-2ac1d81d",
+"tag": "night"
+},
+{
+"idx": 101,
+"drive": "bdd/01dc8414-3e5938b1",
+"tag": "night"
+},
+{
+"idx": 102,
+"drive": "bdd/01dd2e02-3bd0526b",
+"tag": "night"
+},
+{
+"idx": 103,
+"drive": "bdd/01df5158-81b61006",
+"tag": "night"
+},
+{
+"idx": 104,
+"drive": "bdd/01dfa9c5-8e06d106",
+"tag": "night"
+},
+{
+"idx": 105,
+"drive": "bdd/0024b742-acbed4fb",
+"tag": "rain"
+},
+{
+"idx": 106,
+"drive": "bdd/00690c26-e4bbbd72",
+"tag": "rain"
+},
+{
+"idx": 107,
+"drive": "bdd/006dd004-34630e8d",
+"tag": "rain"
+},
+{
+"idx": 108,
+"drive": "bdd/00810e80-37641274",
+"tag": "rain"
+},
+{
+"idx": 109,
+"drive": "bdd/00c17a92-d4803287",
+"tag": "rain"
+},
+{
+"idx": 110,
+"drive": "bdd/00d5edb9-f0077df3",
+"tag": "rain"
+},
+{
+"idx": 111,
+"drive": "bdd/01bb1cc0-cea208cc",
+"tag": "rain"
+},
+{
+"idx": 112,
+"drive": "bdd/01c2e726-414a03ea",
+"tag": "rain"
+},
+{
+"idx": 113,
+"drive": "bdd/020cc8f8-8b679d0b",
+"tag": "rain"
+},
+{
+"idx": 114,
+"drive": "bdd/02207cae-1e3da672",
+"tag": "rain"
+},
+{
+"idx": 115,
+"drive": "bdd/00091078-875c1f73",
+"tag": "snow"
+},
+{
+"idx": 116,
+"drive": "bdd/00091078-cedbfea7",
+"tag": "snow"
+},
+{
+"idx": 117,
+"drive": "bdd/0075b179-8e09869a",
+"tag": "snow"
+},
+{
+"idx": 118,
+"drive": "bdd/00b04b30-2e874876",
+"tag": "snow"
+},
+{
+"idx": 119,
+"drive": "bdd/00f42f6b-699a498c",
+"tag": "snow"
+},
+{
+"idx": 120,
+"drive": "bdd/00fbb190-8834f55b",
+"tag": "snow"
+},
+{
+"idx": 121,
+"drive": "bdd/0104eb19-718b1a9c",
+"tag": "snow"
+},
+{
+"idx": 122,
+"drive": "bdd/010b0600-ae1f7be5",
+"tag": "snow"
+},
+{
+"idx": 123,
+"drive": "bdd/0124dfa6-385f1b58",
+"tag": "snow"
+},
+{
+"idx": 124,
+"drive": "bdd/01e9deb7-ed388859",
+"tag": "snow"
+},
+{
+"idx": 125,
+"drive": "bdd/02097021-05dcbf23",
+"tag": "snow"
+},
+{
+"idx": 126,
+"drive": "bdd/021c4a16-f4d18785",
+"tag": "snow"
+},
+{
+"idx": 127,
+"drive": "bdd/02346f91-27a6b98b",
+"tag": "snow"
+},
+{
+"idx": 128,
+"drive": "bdd/02346f91-9190074e",
+"tag": "snow"
+}
+]

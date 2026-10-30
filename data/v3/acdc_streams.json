@@ -1,0 +1,3828 @@
+[
+ {
+  "stream_id": "acdc/fog_0475_calib__clean0",
+  "split": "calib",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0475_calib_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/fog_0475_calib"
+ },
+ {
+  "stream_id": "acdc/fog_0475_calib__clean1",
+  "split": "calib",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0475_calib_ref",
+    "start": 40,
+    "end": 80,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/fog_0475_calib"
+ },
+ {
+  "stream_id": "acdc/fog_0475_calib__clean2",
+  "split": "calib",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0475_calib_ref",
+    "start": 80,
+    "end": 120,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/fog_0475_calib"
+ },
+ {
+  "stream_id": "acdc/fog_0475_ref__clean0",
+  "split": "ref",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0475_ref_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/fog_0475_ref"
+ },
+ {
+  "stream_id": "acdc/fog_0475_ref__clean1",
+  "split": "ref",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0475_ref_ref",
+    "start": 40,
+    "end": 80,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/fog_0475_ref"
+ },
+ {
+  "stream_id": "acdc/fog_0476_calib__clean0",
+  "split": "calib",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0476_calib_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/fog_0476_calib"
+ },
+ {
+  "stream_id": "acdc/fog_0476_norm__clean0",
+  "split": "norm",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0476_norm_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/fog_0476_norm"
+ },
+ {
+  "stream_id": "acdc/fog_0476_norm__clean1",
+  "split": "norm",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0476_norm_ref",
+    "start": 40,
+    "end": 80,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/fog_0476_norm"
+ },
+ {
+  "stream_id": "acdc/fog_0477_calib__clean0",
+  "split": "calib",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0477_calib_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/fog_0477_calib"
+ },
+ {
+  "stream_id": "acdc/fog_0477_calib__clean1",
+  "split": "calib",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0477_calib_ref",
+    "start": 40,
+    "end": 80,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/fog_0477_calib"
+ },
+ {
+  "stream_id": "acdc/fog_0477_ref__clean0",
+  "split": "ref",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0477_ref_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/fog_0477_ref"
+ },
+ {
+  "stream_id": "acdc/fog_0477_ref__clean1",
+  "split": "ref",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0477_ref_ref",
+    "start": 40,
+    "end": 80,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/fog_0477_ref"
+ },
+ {
+  "stream_id": "acdc/fog_0477_ref__clean2",
+  "split": "ref",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0477_ref_ref",
+    "start": 80,
+    "end": 120,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/fog_0477_ref"
+ },
+ {
+  "stream_id": "acdc/fog_0478__clean0",
+  "split": "dev",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/fog_0478"
+ },
+ {
+  "stream_id": "acdc/fog_0478__clean1",
+  "split": "dev",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 40,
+    "end": 80,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/fog_0478"
+ },
+ {
+  "stream_id": "acdc/fog_0478__clean2",
+  "split": "dev",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 80,
+    "end": 120,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/fog_0478"
+ },
+ {
+  "stream_id": "acdc/fog_0478__clean3",
+  "split": "dev",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 120,
+    "end": 160,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/fog_0478"
+ },
+ {
+  "stream_id": "acdc/fog_0478__clean4",
+  "split": "dev",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 160,
+    "end": 200,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/fog_0478"
+ },
+ {
+  "stream_id": "acdc/fog_0478__clean5",
+  "split": "dev",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 200,
+    "end": 240,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/fog_0478"
+ },
+ {
+  "stream_id": "acdc/fog_0478__clean6",
+  "split": "dev",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 240,
+    "end": 280,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/fog_0478"
+ },
+ {
+  "stream_id": "acdc/fog_0478__clean7",
+  "split": "dev",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 280,
+    "end": 320,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/fog_0478"
+ },
+ {
+  "stream_id": "acdc/fog_0478__cond0",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "fog",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/fog_0478_adv",
+    "start": 40,
+    "end": 70,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/fog_0478"
+ },
+ {
+  "stream_id": "acdc/fog_0478__hn0",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/fog_0479_ref",
+    "start": 0,
+    "end": 30,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/fog_0478"
+ },
+ {
+  "stream_id": "acdc/fog_0478__cond1",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "fog",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 20,
+    "end": 60,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/fog_0478_adv",
+    "start": 60,
+    "end": 90,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/fog_0478"
+ },
+ {
+  "stream_id": "acdc/fog_0478__hn1",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 20,
+    "end": 60,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/fog_0479_ref",
+    "start": 0,
+    "end": 30,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/fog_0478"
+ },
+ {
+  "stream_id": "acdc/fog_0478__cond2",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "fog",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 40,
+    "end": 80,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/fog_0478_adv",
+    "start": 80,
+    "end": 110,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/fog_0478"
+ },
+ {
+  "stream_id": "acdc/fog_0478__hn2",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 40,
+    "end": 80,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/fog_0479_ref",
+    "start": 0,
+    "end": 30,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/fog_0478"
+ },
+ {
+  "stream_id": "acdc/fog_0478__cond3",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "fog",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 60,
+    "end": 100,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/fog_0478_adv",
+    "start": 100,
+    "end": 130,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/fog_0478"
+ },
+ {
+  "stream_id": "acdc/fog_0478__hn3",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 60,
+    "end": 100,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/fog_0479_ref",
+    "start": 0,
+    "end": 30,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/fog_0478"
+ },
+ {
+  "stream_id": "acdc/fog_0478__cond4",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "fog",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 80,
+    "end": 120,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/fog_0478_adv",
+    "start": 120,
+    "end": 150,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/fog_0478"
+ },
+ {
+  "stream_id": "acdc/fog_0478__hn4",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 80,
+    "end": 120,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/fog_0479_ref",
+    "start": 0,
+    "end": 30,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/fog_0478"
+ },
+ {
+  "stream_id": "acdc/fog_0478__cond5",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "fog",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 100,
+    "end": 140,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/fog_0478_adv",
+    "start": 140,
+    "end": 170,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/fog_0478"
+ },
+ {
+  "stream_id": "acdc/fog_0478__hn5",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 100,
+    "end": 140,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/fog_0479_ref",
+    "start": 0,
+    "end": 30,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/fog_0478"
+ },
+ {
+  "stream_id": "acdc/fog_0478__cond6",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "fog",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 120,
+    "end": 160,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/fog_0478_adv",
+    "start": 160,
+    "end": 190,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/fog_0478"
+ },
+ {
+  "stream_id": "acdc/fog_0478__hn6",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 120,
+    "end": 160,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/fog_0479_ref",
+    "start": 0,
+    "end": 30,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/fog_0478"
+ },
+ {
+  "stream_id": "acdc/fog_0478__cond7",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "fog",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 140,
+    "end": 180,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/fog_0478_adv",
+    "start": 180,
+    "end": 210,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/fog_0478"
+ },
+ {
+  "stream_id": "acdc/fog_0478__hn7",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 140,
+    "end": 180,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/fog_0479_ref",
+    "start": 0,
+    "end": 30,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/fog_0478"
+ },
+ {
+  "stream_id": "acdc/fog_0478__cond8",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "fog",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 160,
+    "end": 200,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/fog_0478_adv",
+    "start": 200,
+    "end": 230,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/fog_0478"
+ },
+ {
+  "stream_id": "acdc/fog_0478__hn8",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 160,
+    "end": 200,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/fog_0479_ref",
+    "start": 0,
+    "end": 30,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/fog_0478"
+ },
+ {
+  "stream_id": "acdc/fog_0478__cond9",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "fog",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 180,
+    "end": 220,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/fog_0478_adv",
+    "start": 220,
+    "end": 250,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/fog_0478"
+ },
+ {
+  "stream_id": "acdc/fog_0478__hn9",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 180,
+    "end": 220,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/fog_0479_ref",
+    "start": 0,
+    "end": 30,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/fog_0478"
+ },
+ {
+  "stream_id": "acdc/fog_0478__cond10",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "fog",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 200,
+    "end": 240,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/fog_0478_adv",
+    "start": 240,
+    "end": 270,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/fog_0478"
+ },
+ {
+  "stream_id": "acdc/fog_0478__hn10",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 200,
+    "end": 240,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/fog_0479_ref",
+    "start": 0,
+    "end": 30,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/fog_0478"
+ },
+ {
+  "stream_id": "acdc/fog_0478__cond11",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "fog",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 220,
+    "end": 260,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/fog_0478_adv",
+    "start": 260,
+    "end": 290,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/fog_0478"
+ },
+ {
+  "stream_id": "acdc/fog_0478__hn11",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 220,
+    "end": 260,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/fog_0479_ref",
+    "start": 0,
+    "end": 30,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/fog_0478"
+ },
+ {
+  "stream_id": "acdc/fog_0478__cond12",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "fog",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 240,
+    "end": 280,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/fog_0478_adv",
+    "start": 280,
+    "end": 310,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/fog_0478"
+ },
+ {
+  "stream_id": "acdc/fog_0478__hn12",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 240,
+    "end": 280,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/fog_0479_ref",
+    "start": 0,
+    "end": 30,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/fog_0478"
+ },
+ {
+  "stream_id": "acdc/fog_0478__cond13",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "fog",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 260,
+    "end": 300,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/fog_0478_adv",
+    "start": 300,
+    "end": 330,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/fog_0478"
+ },
+ {
+  "stream_id": "acdc/fog_0478__hn13",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 260,
+    "end": 300,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/fog_0479_ref",
+    "start": 0,
+    "end": 30,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/fog_0478"
+ },
+ {
+  "stream_id": "acdc/night_0351__clean0",
+  "split": "dev",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0351_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/night_0351"
+ },
+ {
+  "stream_id": "acdc/night_0351__clean1",
+  "split": "dev",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0351_ref",
+    "start": 40,
+    "end": 80,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/night_0351"
+ },
+ {
+  "stream_id": "acdc/night_0351__clean2",
+  "split": "dev",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0351_ref",
+    "start": 80,
+    "end": 120,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/night_0351"
+ },
+ {
+  "stream_id": "acdc/night_0351__cond0",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "night",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0351_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/night_0351_adv",
+    "start": 40,
+    "end": 70,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/night_0351"
+ },
+ {
+  "stream_id": "acdc/night_0351__hn0",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0351_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/snow_0122_ref",
+    "start": 0,
+    "end": 30,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/night_0351"
+ },
+ {
+  "stream_id": "acdc/night_0351__cond1",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "night",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0351_ref",
+    "start": 20,
+    "end": 60,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/night_0351_adv",
+    "start": 60,
+    "end": 90,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/night_0351"
+ },
+ {
+  "stream_id": "acdc/night_0351__hn1",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0351_ref",
+    "start": 20,
+    "end": 60,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/snow_0122_ref",
+    "start": 18,
+    "end": 48,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/night_0351"
+ },
+ {
+  "stream_id": "acdc/night_0351__cond2",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "night",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0351_ref",
+    "start": 40,
+    "end": 80,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/night_0351_adv",
+    "start": 80,
+    "end": 110,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/night_0351"
+ },
+ {
+  "stream_id": "acdc/night_0351__hn2",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0351_ref",
+    "start": 40,
+    "end": 80,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/snow_0122_ref",
+    "start": 36,
+    "end": 66,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/night_0351"
+ },
+ {
+  "stream_id": "acdc/night_0351__cond3",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "night",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0351_ref",
+    "start": 60,
+    "end": 100,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/night_0351_adv",
+    "start": 100,
+    "end": 130,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/night_0351"
+ },
+ {
+  "stream_id": "acdc/night_0351__hn3",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0351_ref",
+    "start": 60,
+    "end": 100,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/snow_0122_ref",
+    "start": 54,
+    "end": 84,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/night_0351"
+ },
+ {
+  "stream_id": "acdc/night_0356_ref__clean0",
+  "split": "ref",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0356_ref_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/night_0356_ref"
+ },
+ {
+  "stream_id": "acdc/night_0356_ref__clean1",
+  "split": "ref",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0356_ref_ref",
+    "start": 40,
+    "end": 80,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/night_0356_ref"
+ },
+ {
+  "stream_id": "acdc/night_0356_ref__clean2",
+  "split": "ref",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0356_ref_ref",
+    "start": 80,
+    "end": 120,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/night_0356_ref"
+ },
+ {
+  "stream_id": "acdc/night_0356_ref__clean3",
+  "split": "ref",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0356_ref_ref",
+    "start": 120,
+    "end": 160,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/night_0356_ref"
+ },
+ {
+  "stream_id": "acdc/night_0356_ref__clean4",
+  "split": "ref",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0356_ref_ref",
+    "start": 160,
+    "end": 200,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/night_0356_ref"
+ },
+ {
+  "stream_id": "acdc/night_0364_calib__clean0",
+  "split": "calib",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0364_calib_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/night_0364_calib"
+ },
+ {
+  "stream_id": "acdc/night_0364_calib__clean1",
+  "split": "calib",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0364_calib_ref",
+    "start": 40,
+    "end": 80,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/night_0364_calib"
+ },
+ {
+  "stream_id": "acdc/night_0364_norm__clean0",
+  "split": "norm",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0364_norm_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/night_0364_norm"
+ },
+ {
+  "stream_id": "acdc/night_0376_calib__clean0",
+  "split": "calib",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0376_calib_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/night_0376_calib"
+ },
+ {
+  "stream_id": "acdc/night_0376_calib__clean1",
+  "split": "calib",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0376_calib_ref",
+    "start": 40,
+    "end": 80,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/night_0376_calib"
+ },
+ {
+  "stream_id": "acdc/night_0376_calib__clean2",
+  "split": "calib",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0376_calib_ref",
+    "start": 80,
+    "end": 120,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/night_0376_calib"
+ },
+ {
+  "stream_id": "acdc/night_0376_norm__clean0",
+  "split": "norm",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0376_norm_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/night_0376_norm"
+ },
+ {
+  "stream_id": "acdc/night_0397__clean0",
+  "split": "dev",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0397_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/night_0397"
+ },
+ {
+  "stream_id": "acdc/night_0397__clean1",
+  "split": "dev",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0397_ref",
+    "start": 40,
+    "end": 80,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/night_0397"
+ },
+ {
+  "stream_id": "acdc/night_0397__cond0",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "night",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0397_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/night_0397_adv",
+    "start": 40,
+    "end": 70,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/night_0397"
+ },
+ {
+  "stream_id": "acdc/night_0397__hn0",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0397_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/rain_0400_ref",
+    "start": 0,
+    "end": 30,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/night_0397"
+ },
+ {
+  "stream_id": "acdc/night_0397__cond1",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "night",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0397_ref",
+    "start": 20,
+    "end": 60,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/night_0397_adv",
+    "start": 60,
+    "end": 90,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/night_0397"
+ },
+ {
+  "stream_id": "acdc/night_0397__hn1",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0397_ref",
+    "start": 20,
+    "end": 60,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/rain_0400_ref",
+    "start": 140,
+    "end": 170,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/night_0397"
+ },
+ {
+  "stream_id": "acdc/night_0594__clean0",
+  "split": "dev",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0594_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/night_0594"
+ },
+ {
+  "stream_id": "acdc/night_0594__clean1",
+  "split": "dev",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0594_ref",
+    "start": 40,
+    "end": 80,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/night_0594"
+ },
+ {
+  "stream_id": "acdc/night_0594__clean2",
+  "split": "dev",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0594_ref",
+    "start": 80,
+    "end": 120,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/night_0594"
+ },
+ {
+  "stream_id": "acdc/night_0594__clean3",
+  "split": "dev",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0594_ref",
+    "start": 120,
+    "end": 160,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/night_0594"
+ },
+ {
+  "stream_id": "acdc/night_0594__cond0",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "night",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0594_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/night_0594_adv",
+    "start": 40,
+    "end": 70,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/night_0594"
+ },
+ {
+  "stream_id": "acdc/night_0594__hn0",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0594_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/rain_0571_ref",
+    "start": 0,
+    "end": 30,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/night_0594"
+ },
+ {
+  "stream_id": "acdc/night_0594__cond1",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "night",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0594_ref",
+    "start": 20,
+    "end": 60,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/night_0594_adv",
+    "start": 60,
+    "end": 90,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/night_0594"
+ },
+ {
+  "stream_id": "acdc/night_0594__hn1",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0594_ref",
+    "start": 20,
+    "end": 60,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/rain_0571_ref",
+    "start": 5,
+    "end": 35,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/night_0594"
+ },
+ {
+  "stream_id": "acdc/night_0594__cond2",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "night",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0594_ref",
+    "start": 40,
+    "end": 80,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/night_0594_adv",
+    "start": 80,
+    "end": 110,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/night_0594"
+ },
+ {
+  "stream_id": "acdc/night_0594__hn2",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0594_ref",
+    "start": 40,
+    "end": 80,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/rain_0571_ref",
+    "start": 10,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/night_0594"
+ },
+ {
+  "stream_id": "acdc/night_0594__cond3",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "night",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0594_ref",
+    "start": 60,
+    "end": 100,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/night_0594_adv",
+    "start": 100,
+    "end": 130,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/night_0594"
+ },
+ {
+  "stream_id": "acdc/night_0594__hn3",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0594_ref",
+    "start": 60,
+    "end": 100,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/rain_0571_ref",
+    "start": 15,
+    "end": 45,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/night_0594"
+ },
+ {
+  "stream_id": "acdc/night_0594__cond4",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "night",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0594_ref",
+    "start": 80,
+    "end": 120,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/night_0594_adv",
+    "start": 120,
+    "end": 150,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/night_0594"
+ },
+ {
+  "stream_id": "acdc/night_0594__hn4",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/night_0594_ref",
+    "start": 80,
+    "end": 120,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/rain_0571_ref",
+    "start": 20,
+    "end": 50,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/night_0594"
+ },
+ {
+  "stream_id": "acdc/rain_0400__clean0",
+  "split": "dev",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0400_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/rain_0400"
+ },
+ {
+  "stream_id": "acdc/rain_0400__clean1",
+  "split": "dev",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0400_ref",
+    "start": 40,
+    "end": 80,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/rain_0400"
+ },
+ {
+  "stream_id": "acdc/rain_0400__clean2",
+  "split": "dev",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0400_ref",
+    "start": 80,
+    "end": 120,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/rain_0400"
+ },
+ {
+  "stream_id": "acdc/rain_0400__clean3",
+  "split": "dev",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0400_ref",
+    "start": 120,
+    "end": 160,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/rain_0400"
+ },
+ {
+  "stream_id": "acdc/rain_0400__clean4",
+  "split": "dev",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0400_ref",
+    "start": 160,
+    "end": 200,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/rain_0400"
+ },
+ {
+  "stream_id": "acdc/rain_0400__clean5",
+  "split": "dev",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0400_ref",
+    "start": 200,
+    "end": 240,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/rain_0400"
+ },
+ {
+  "stream_id": "acdc/rain_0400__clean6",
+  "split": "dev",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0400_ref",
+    "start": 240,
+    "end": 280,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/rain_0400"
+ },
+ {
+  "stream_id": "acdc/rain_0400__cond0",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "rain",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0400_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/rain_0400_adv",
+    "start": 40,
+    "end": 70,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/rain_0400"
+ },
+ {
+  "stream_id": "acdc/rain_0400__hn0",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0400_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 0,
+    "end": 30,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/rain_0400"
+ },
+ {
+  "stream_id": "acdc/rain_0400__cond1",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "rain",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0400_ref",
+    "start": 20,
+    "end": 60,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/rain_0400_adv",
+    "start": 60,
+    "end": 90,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/rain_0400"
+ },
+ {
+  "stream_id": "acdc/rain_0400__hn1",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0400_ref",
+    "start": 20,
+    "end": 60,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 140,
+    "end": 170,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/rain_0400"
+ },
+ {
+  "stream_id": "acdc/rain_0400__cond2",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "rain",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0400_ref",
+    "start": 40,
+    "end": 80,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/rain_0400_adv",
+    "start": 80,
+    "end": 110,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/rain_0400"
+ },
+ {
+  "stream_id": "acdc/rain_0400__hn2",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0400_ref",
+    "start": 40,
+    "end": 80,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 280,
+    "end": 310,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/rain_0400"
+ },
+ {
+  "stream_id": "acdc/rain_0400__cond3",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "rain",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0400_ref",
+    "start": 60,
+    "end": 100,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/rain_0400_adv",
+    "start": 100,
+    "end": 130,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/rain_0400"
+ },
+ {
+  "stream_id": "acdc/rain_0400__hn3",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0400_ref",
+    "start": 60,
+    "end": 100,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 115,
+    "end": 145,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/rain_0400"
+ },
+ {
+  "stream_id": "acdc/rain_0400__cond4",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "rain",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0400_ref",
+    "start": 80,
+    "end": 120,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/rain_0400_adv",
+    "start": 120,
+    "end": 150,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/rain_0400"
+ },
+ {
+  "stream_id": "acdc/rain_0400__hn4",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0400_ref",
+    "start": 80,
+    "end": 120,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 255,
+    "end": 285,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/rain_0400"
+ },
+ {
+  "stream_id": "acdc/rain_0400__cond5",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "rain",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0400_ref",
+    "start": 100,
+    "end": 140,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/rain_0400_adv",
+    "start": 140,
+    "end": 170,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/rain_0400"
+ },
+ {
+  "stream_id": "acdc/rain_0400__hn5",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0400_ref",
+    "start": 100,
+    "end": 140,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 90,
+    "end": 120,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/rain_0400"
+ },
+ {
+  "stream_id": "acdc/rain_0400__cond6",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "rain",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0400_ref",
+    "start": 120,
+    "end": 160,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/rain_0400_adv",
+    "start": 160,
+    "end": 190,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/rain_0400"
+ },
+ {
+  "stream_id": "acdc/rain_0400__hn6",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0400_ref",
+    "start": 120,
+    "end": 160,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 230,
+    "end": 260,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/rain_0400"
+ },
+ {
+  "stream_id": "acdc/rain_0400__cond7",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "rain",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0400_ref",
+    "start": 140,
+    "end": 180,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/rain_0400_adv",
+    "start": 180,
+    "end": 210,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/rain_0400"
+ },
+ {
+  "stream_id": "acdc/rain_0400__hn7",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0400_ref",
+    "start": 140,
+    "end": 180,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 65,
+    "end": 95,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/rain_0400"
+ },
+ {
+  "stream_id": "acdc/rain_0400__cond8",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "rain",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0400_ref",
+    "start": 160,
+    "end": 200,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/rain_0400_adv",
+    "start": 200,
+    "end": 230,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/rain_0400"
+ },
+ {
+  "stream_id": "acdc/rain_0400__hn8",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0400_ref",
+    "start": 160,
+    "end": 200,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 205,
+    "end": 235,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/rain_0400"
+ },
+ {
+  "stream_id": "acdc/rain_0400__cond9",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "rain",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0400_ref",
+    "start": 180,
+    "end": 220,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/rain_0400_adv",
+    "start": 220,
+    "end": 250,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/rain_0400"
+ },
+ {
+  "stream_id": "acdc/rain_0400__hn9",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0400_ref",
+    "start": 180,
+    "end": 220,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 40,
+    "end": 70,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/rain_0400"
+ },
+ {
+  "stream_id": "acdc/rain_0400__cond10",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "rain",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0400_ref",
+    "start": 200,
+    "end": 240,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/rain_0400_adv",
+    "start": 240,
+    "end": 270,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/rain_0400"
+ },
+ {
+  "stream_id": "acdc/rain_0400__hn10",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0400_ref",
+    "start": 200,
+    "end": 240,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 180,
+    "end": 210,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/rain_0400"
+ },
+ {
+  "stream_id": "acdc/rain_0400__cond11",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "rain",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0400_ref",
+    "start": 220,
+    "end": 260,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/rain_0400_adv",
+    "start": 260,
+    "end": 290,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/rain_0400"
+ },
+ {
+  "stream_id": "acdc/rain_0400__hn11",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0400_ref",
+    "start": 220,
+    "end": 260,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/fog_0478_ref",
+    "start": 15,
+    "end": 45,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/rain_0400"
+ },
+ {
+  "stream_id": "acdc/rain_0402_calib__clean0",
+  "split": "calib",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0402_calib_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/rain_0402_calib"
+ },
+ {
+  "stream_id": "acdc/rain_0402_calib__clean1",
+  "split": "calib",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0402_calib_ref",
+    "start": 40,
+    "end": 80,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/rain_0402_calib"
+ },
+ {
+  "stream_id": "acdc/rain_0402_calib__clean2",
+  "split": "calib",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0402_calib_ref",
+    "start": 80,
+    "end": 120,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/rain_0402_calib"
+ },
+ {
+  "stream_id": "acdc/rain_0402_calib__clean3",
+  "split": "calib",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0402_calib_ref",
+    "start": 120,
+    "end": 160,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/rain_0402_calib"
+ },
+ {
+  "stream_id": "acdc/rain_0402_ref__clean0",
+  "split": "ref",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0402_ref_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/rain_0402_ref"
+ },
+ {
+  "stream_id": "acdc/rain_0402_ref__clean1",
+  "split": "ref",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0402_ref_ref",
+    "start": 40,
+    "end": 80,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/rain_0402_ref"
+ },
+ {
+  "stream_id": "acdc/rain_0571__clean0",
+  "split": "dev",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0571_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/rain_0571"
+ },
+ {
+  "stream_id": "acdc/rain_0571__cond0",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "rain",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0571_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/rain_0571_adv",
+    "start": 40,
+    "end": 70,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/rain_0571"
+ },
+ {
+  "stream_id": "acdc/rain_0571__hn0",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0571_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/snow_0605_ref",
+    "start": 0,
+    "end": 30,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/rain_0571"
+ },
+ {
+  "stream_id": "acdc/rain_0572_ref__clean0",
+  "split": "ref",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0572_ref_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/rain_0572_ref"
+ },
+ {
+  "stream_id": "acdc/rain_0572_ref__clean1",
+  "split": "ref",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0572_ref_ref",
+    "start": 40,
+    "end": 80,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/rain_0572_ref"
+ },
+ {
+  "stream_id": "acdc/rain_0573_calib__clean0",
+  "split": "calib",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0573_calib_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/rain_0573_calib"
+ },
+ {
+  "stream_id": "acdc/rain_0573_calib__clean1",
+  "split": "calib",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0573_calib_ref",
+    "start": 40,
+    "end": 80,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/rain_0573_calib"
+ },
+ {
+  "stream_id": "acdc/rain_0573_norm__clean0",
+  "split": "norm",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0573_norm_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/rain_0573_norm"
+ },
+ {
+  "stream_id": "acdc/rain_0573_ref__clean0",
+  "split": "ref",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/rain_0573_ref_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/rain_0573_ref"
+ },
+ {
+  "stream_id": "acdc/snow_0122__clean0",
+  "split": "dev",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/snow_0122_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/snow_0122"
+ },
+ {
+  "stream_id": "acdc/snow_0122__clean1",
+  "split": "dev",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/snow_0122_ref",
+    "start": 40,
+    "end": 80,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/snow_0122"
+ },
+ {
+  "stream_id": "acdc/snow_0122__clean2",
+  "split": "dev",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/snow_0122_ref",
+    "start": 80,
+    "end": 120,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/snow_0122"
+ },
+ {
+  "stream_id": "acdc/snow_0122__cond0",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "snow",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/snow_0122_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/snow_0122_adv",
+    "start": 40,
+    "end": 70,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/snow_0122"
+ },
+ {
+  "stream_id": "acdc/snow_0122__hn0",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/snow_0122_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/night_0397_ref",
+    "start": 0,
+    "end": 30,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/snow_0122"
+ },
+ {
+  "stream_id": "acdc/snow_0122__cond1",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "snow",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/snow_0122_ref",
+    "start": 20,
+    "end": 60,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/snow_0122_adv",
+    "start": 60,
+    "end": 90,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/snow_0122"
+ },
+ {
+  "stream_id": "acdc/snow_0122__hn1",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/snow_0122_ref",
+    "start": 20,
+    "end": 60,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/night_0397_ref",
+    "start": 66,
+    "end": 96,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/snow_0122"
+ },
+ {
+  "stream_id": "acdc/snow_0122__cond2",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "snow",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/snow_0122_ref",
+    "start": 40,
+    "end": 80,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/snow_0122_adv",
+    "start": 80,
+    "end": 110,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/snow_0122"
+ },
+ {
+  "stream_id": "acdc/snow_0122__hn2",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/snow_0122_ref",
+    "start": 40,
+    "end": 80,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/night_0397_ref",
+    "start": 58,
+    "end": 88,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/snow_0122"
+ },
+ {
+  "stream_id": "acdc/snow_0122__cond3",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "snow",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/snow_0122_ref",
+    "start": 60,
+    "end": 100,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/snow_0122_adv",
+    "start": 100,
+    "end": 130,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/snow_0122"
+ },
+ {
+  "stream_id": "acdc/snow_0122__hn3",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/snow_0122_ref",
+    "start": 60,
+    "end": 100,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/night_0397_ref",
+    "start": 50,
+    "end": 80,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/snow_0122"
+ },
+ {
+  "stream_id": "acdc/snow_0122__cond4",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "snow",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/snow_0122_ref",
+    "start": 80,
+    "end": 120,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/snow_0122_adv",
+    "start": 120,
+    "end": 150,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/snow_0122"
+ },
+ {
+  "stream_id": "acdc/snow_0122__hn4",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/snow_0122_ref",
+    "start": 80,
+    "end": 120,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/night_0397_ref",
+    "start": 42,
+    "end": 72,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/snow_0122"
+ },
+ {
+  "stream_id": "acdc/snow_0176_calib__clean0",
+  "split": "calib",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/snow_0176_calib_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/snow_0176_calib"
+ },
+ {
+  "stream_id": "acdc/snow_0176_calib__clean1",
+  "split": "calib",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/snow_0176_calib_ref",
+    "start": 40,
+    "end": 80,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/snow_0176_calib"
+ },
+ {
+  "stream_id": "acdc/snow_0176_calib__clean2",
+  "split": "calib",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/snow_0176_calib_ref",
+    "start": 80,
+    "end": 120,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/snow_0176_calib"
+ },
+ {
+  "stream_id": "acdc/snow_0176_calib__clean3",
+  "split": "calib",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/snow_0176_calib_ref",
+    "start": 120,
+    "end": 160,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/snow_0176_calib"
+ },
+ {
+  "stream_id": "acdc/snow_0176_ref__clean0",
+  "split": "ref",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/snow_0176_ref_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/snow_0176_ref"
+ },
+ {
+  "stream_id": "acdc/snow_0176_ref__clean1",
+  "split": "ref",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/snow_0176_ref_ref",
+    "start": 40,
+    "end": 80,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/snow_0176_ref"
+ },
+ {
+  "stream_id": "acdc/snow_0176_ref__clean2",
+  "split": "ref",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/snow_0176_ref_ref",
+    "start": 80,
+    "end": 120,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/snow_0176_ref"
+ },
+ {
+  "stream_id": "acdc/snow_0176_ref__clean3",
+  "split": "ref",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/snow_0176_ref_ref",
+    "start": 120,
+    "end": 160,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/snow_0176_ref"
+ },
+ {
+  "stream_id": "acdc/snow_0494_ref__clean0",
+  "split": "ref",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/snow_0494_ref_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/snow_0494_ref"
+ },
+ {
+  "stream_id": "acdc/snow_0496_calib__clean0",
+  "split": "calib",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/snow_0496_calib_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/snow_0496_calib"
+ },
+ {
+  "stream_id": "acdc/snow_0604__clean0",
+  "split": "dev",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/snow_0604_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/snow_0604"
+ },
+ {
+  "stream_id": "acdc/snow_0606_calib__clean0",
+  "split": "calib",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/snow_0606_calib_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/snow_0606_calib"
+ },
+ {
+  "stream_id": "acdc/snow_0606_norm__clean0",
+  "split": "norm",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/snow_0606_norm_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/snow_0606_norm"
+ },
+ {
+  "stream_id": "acdc/snow_0606_norm__clean1",
+  "split": "norm",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/snow_0606_norm_ref",
+    "start": 40,
+    "end": 80,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/snow_0606_norm"
+ },
+ {
+  "stream_id": "acdc/snow_0607__clean0",
+  "split": "dev",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/snow_0607_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/snow_0607"
+ },
+ {
+  "stream_id": "acdc/snow_0607__clean1",
+  "split": "dev",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/snow_0607_ref",
+    "start": 40,
+    "end": 80,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/snow_0607"
+ },
+ {
+  "stream_id": "acdc/snow_0607__clean2",
+  "split": "dev",
+  "kind": "clean",
+  "shift": "none",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/snow_0607_ref",
+    "start": 80,
+    "end": 120,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": null,
+  "unit": "acdc/snow_0607"
+ },
+ {
+  "stream_id": "acdc/snow_0607__cond0",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "snow",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/snow_0607_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/snow_0607_adv",
+    "start": 40,
+    "end": 70,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/snow_0607"
+ },
+ {
+  "stream_id": "acdc/snow_0607__hn0",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/snow_0607_ref",
+    "start": 0,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/night_0594_ref",
+    "start": 0,
+    "end": 30,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/snow_0607"
+ },
+ {
+  "stream_id": "acdc/snow_0607__cond1",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "snow",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/snow_0607_ref",
+    "start": 20,
+    "end": 60,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/snow_0607_adv",
+    "start": 60,
+    "end": 90,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/snow_0607"
+ },
+ {
+  "stream_id": "acdc/snow_0607__hn1",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/snow_0607_ref",
+    "start": 20,
+    "end": 60,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/night_0594_ref",
+    "start": 10,
+    "end": 40,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/snow_0607"
+ },
+ {
+  "stream_id": "acdc/snow_0607__cond2",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "snow",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/snow_0607_ref",
+    "start": 40,
+    "end": 80,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/snow_0607_adv",
+    "start": 80,
+    "end": 110,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/snow_0607"
+ },
+ {
+  "stream_id": "acdc/snow_0607__hn2",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/snow_0607_ref",
+    "start": 40,
+    "end": 80,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/night_0594_ref",
+    "start": 20,
+    "end": 50,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/snow_0607"
+ },
+ {
+  "stream_id": "acdc/snow_0607__cond3",
+  "split": "dev",
+  "kind": "condition",
+  "shift": "snow",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/snow_0607_ref",
+    "start": 60,
+    "end": 100,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/snow_0607_adv",
+    "start": 100,
+    "end": 130,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/snow_0607"
+ },
+ {
+  "stream_id": "acdc/snow_0607__hn3",
+  "split": "dev",
+  "kind": "hard_negative",
+  "shift": "hn_scene",
+  "severity": null,
+  "segments": [
+   {
+    "seq_id": "acdc/snow_0607_ref",
+    "start": 60,
+    "end": 100,
+    "corruption": null,
+    "severity": null
+   },
+   {
+    "seq_id": "acdc/night_0594_ref",
+    "start": 30,
+    "end": 60,
+    "corruption": null,
+    "severity": null
+   }
+  ],
+  "tau": 40,
+  "unit": "acdc/snow_0607"
+ }
+]

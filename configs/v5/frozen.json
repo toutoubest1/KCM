@@ -1,0 +1,12 @@
+{
+  "_comment": "FROZEN known-condition monitor (KCM). See FROZEN_METHOD.md. Frozen before any confirmatory result.",
+  "backbone": "dinov2_s14", "weights_sha256_prefix": "b938bf1b", "size_hw": [182, 322],
+  "blocks": [2, 4, 6, 8], "layer_idx_in_cache": [0, 1, 2, 3], "feature": "concat l2(CLS_b), l2(meanpatch_b)",
+  "classifier": {"type": "logistic_regression", "C": 0.1, "penalty": "l2", "solver": "lbfgs", "max_iter": 5000, "group_balanced": true, "standard_scaler": true},
+  "training_groups": ["BDD normT synthetic-corrupted (+)", "BDD normT clean (-)", "ACDC adverse all (+)", "ACDC normal all (-)"],
+  "bdd_norm_split": "data/v4/bdd_norm_split.json",
+  "normalisation": "median / 1.4826 MAD of d on BDD normS frames",
+  "ewma_lambda": 0.1, "monitor_start": 20, "calibration_window": [20, 100], "alpha": 0.05, "calibration": "drive-level split conformal on BDD calib (66 drives)",
+  "localisation": {"primary": "block-6 per-position patch kNN evidence (k=10, PCA-64, BDD ref bank stride 10, per-position normS standardisation)", "secondary": "block-8 temporal stillness map", "window": "[tau, tau+19]"},
+  "not_in_alarm": ["stillness scan", "kNN novelty branch", "content residualisation", "combination rules"]
+}

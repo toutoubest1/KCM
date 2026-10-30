@@ -1,0 +1,9 @@
+{
+  "_comment": "Dataset and checkpoint locations. All pipeline scripts read data from <repo>/data/raw/... and features from <repo>/data/features_v*/...; run `python scripts/setup_data_links.py` to link the folders below into data/raw/ (or edit them to point at your copies). Paths may be absolute or relative to the repository root.",
+  "bdd_track_train": "/path/to/bdd100k_mot/bdd_track_train_480x270",
+  "bdd_track_val": "/path/to/bdd100k_mot/bdd_track_val_480x270",
+  "acdc": "/path/to/acdc_480x270",
+  "radiate": "/path/to/radiate_zed_left_5hz",
+  "features_root": "data",
+  "weights": "weights"
+}

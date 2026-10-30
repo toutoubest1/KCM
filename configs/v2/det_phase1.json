@@ -1,0 +1,144 @@
+[
+ {
+  "name": "mewma_multilayer",
+  "kind": "baseline",
+  "baseline": "mewma_multilayer"
+ },
+ {
+  "name": "knn_ewma",
+  "kind": "baseline",
+  "baseline": "knn_ewma"
+ },
+ {
+  "name": "mewma_final",
+  "kind": "baseline",
+  "baseline": "mewma"
+ },
+ {
+  "name": "cusum_T2_final",
+  "kind": "baseline",
+  "baseline": "cusum"
+ },
+ {
+  "name": "single_g2",
+  "kind": "single",
+  "cond": [
+   "g2"
+  ]
+ },
+ {
+  "name": "single_g4",
+  "kind": "single",
+  "cond": [
+   "g4"
+  ]
+ },
+ {
+  "name": "single_g6",
+  "kind": "single",
+  "cond": [
+   "g6"
+  ]
+ },
+ {
+  "name": "single_g8",
+  "kind": "single",
+  "cond": [
+   "g8"
+  ]
+ },
+ {
+  "name": "single_g10",
+  "kind": "single",
+  "cond": [
+   "g10"
+  ]
+ },
+ {
+  "name": "single_g12",
+  "kind": "single",
+  "cond": [
+   "g12"
+  ]
+ },
+ {
+  "name": "single_p6top",
+  "kind": "single",
+  "cond": [
+   "p6top"
+  ]
+ },
+ {
+  "name": "single_p8top",
+  "kind": "single",
+  "cond": [
+   "p8top"
+  ]
+ },
+ {
+  "name": "single_p6mean",
+  "kind": "single",
+  "cond": [
+   "p6mean"
+  ]
+ },
+ {
+  "name": "single_p8mean",
+  "kind": "single",
+  "cond": [
+   "p8mean"
+  ]
+ },
+ {
+  "name": "equal_global",
+  "kind": "equal",
+  "cond": [
+   "g2",
+   "g4",
+   "g6",
+   "g8",
+   "g10",
+   "g12"
+  ]
+ },
+ {
+  "name": "max_global",
+  "kind": "max",
+  "cond": [
+   "g2",
+   "g4",
+   "g6",
+   "g8",
+   "g10",
+   "g12"
+  ]
+ },
+ {
+  "name": "equal_all",
+  "kind": "equal",
+  "cond": [
+   "g2",
+   "g4",
+   "g6",
+   "g8",
+   "g10",
+   "g12",
+   "p6top",
+   "p8top"
+  ]
+ },
+ {
+  "name": "max_all",
+  "kind": "max",
+  "cond": [
+   "g2",
+   "g4",
+   "g6",
+   "g8",
+   "g10",
+   "g12",
+   "p6top",
+   "p8top"
+  ]
+ }
+]

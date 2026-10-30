@@ -1,0 +1,13 @@
+{
+  "_comment": "Stage-3 ACDC protocol (fixed before any ACDC feature was computed; see DATA_SPLIT_V3.md).",
+  "acdc_root": "data/raw/acdc",
+  "index": "data/v3/acdc_index.json",
+  "partitions": "data/v3/acdc_partitions.json",
+  "streams": "data/v3/acdc_streams.json",
+  "feature_root": "data/features_v2/dinov2_s14",
+  "conditions": ["fog", "night", "rain", "snow"],
+  "dev_share": 0.30, "pool_shares": {"ref": 0.40, "calib": 0.45, "norm": 0.15},
+  "tau": 40, "monitor_start": 20, "H": 30, "stream_stride": 20,
+  "alpha": 0.05,
+  "stored_layers": [2, 4, 6, 8, 10, 12], "size_hw": [182, 322], "q_top": 0.1, "knn_k": 10
+}
