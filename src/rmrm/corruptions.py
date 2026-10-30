@@ -1,7 +1,7 @@
 """Controlled visual corruptions for driving video streams.
 
 Design principles
------------------
+
 * Formulas follow the spirit of ImageNet-C (Hendrycks & Dietterich, 2019) but are
   re-implemented with numpy/OpenCV so they work at arbitrary resolution and are
   *temporally coherent*: spatial patterns that would physically persist in a video
