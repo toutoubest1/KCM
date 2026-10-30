@@ -1,7 +1,7 @@
 """Threshold calibration on clean streams and online-detection metrics.
 
 False-alarm criterion (primary)
--------------------------------
+
 PFA_M(h) = P( sup_{t<M} stat_t > h ) for a detector started on a clean stream,
 M = pre-change length of the evaluation streams.  h is calibrated EXCLUSIVELY on
 clean calibration sequences (disjoint from the reference, normalisation and
